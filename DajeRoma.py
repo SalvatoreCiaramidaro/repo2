@@ -1,0 +1,1 @@
+print(f'Daje Roma Daje')
